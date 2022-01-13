@@ -1,0 +1,40 @@
+Region,State_Code,Source Type,Source,Remarks
+Telangana,TG,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Tripura,TR,HTML,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,Testing data available at state level
+Mizoram,MZ,,https://www.mygov.in/covid-19,
+Andhra Pradesh,AP,HTML,https://hmfw.ap.gov.in/covid_dashboard.aspx,Testing data available at state level
+Bihar,BR,Image,https://twitter.com/BiharHealthDept,Testing data available at state level
+Puducherry,PY,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Tamil Nadu,TN,PDF,https://stopcorona.tn.gov.in/daily-bulletin/,Testing data available at state level
+Odisha,OR,HTML,https://statedashboard.odisha.gov.in/,Testing data available at state level
+Rajasthan,RJ,PDF,https://twitter.com/dineshkumawat,Testing data available at state level
+Nagaland,NL,PDF,https://covid19.nagaland.gov.in/daily-bulletins,Testing data available at state level
+Jammu and Kashmir,JK,Image,https://twitter.com/diprjk/,Testing data available at state level
+Uttar Pradesh,UP,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Chandigarh,CH,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Kerala,KL,HTML,https://dashboard.kerala.gov.in/covid/daily.php,Testing data available at state level
+Karnataka,KA,PDF,https://covid19.karnataka.gov.in/govt_bulletin/en,Testing data available at state level
+Madhya Pradesh,MP,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Haryana,HR,PDF,http://nhmharyana.gov.in/,Testing data available at state level
+Punjab,PB,PDF,https://nhm.punjab.gov.in/,
+West Bengal,WB,PDF,https://www.wbhealth.gov.in/pages/corona/bulletin,Testing data available at state level
+Meghalaya,ML,PDF,https://meghalaya.gov.in/,
+Manipur,MN,Image,https://twitter.com/imphalrob,Testing data available at state level
+Dadra and Nagar Haveli and Daman and Diu,DN,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Delhi,DL,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Maharashtra,MH,JSON,https://www.covid19maharashtragov.in/mh-covid/,Provides testing data at state level
+Uttarakhand,UT,PDF,https://health.uk.gov.in/pages/display/140-novel-corona-virus-guidelines-and-advisory-,
+Gujarat,GJ,HTML,https://gujcovid19.gujarat.gov.in/,Testing data available at state level
+Himachal Pradesh,HP,Image,https://twitter.com/nhm_hp,
+Sikkim,SK,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Chhattisgarh,CT,Image,https://twitter.com/HealthCgGov,Testing data available at state level
+Goa,GA,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Arunachal Pradesh,AR,Image,https://twitter.com/DirHealth_ArPr,Testing data available at state level
+Jharkhand,JH,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Ladakh,LA,PDF,https://covid.ladakh.gov.in/,
+Assam,AS,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+Andaman and Nicobar Islands,AN,,https://www.mygov.in/covid-19,"No District Level Data, The State / UT level data is compiled from https://www.mygov.in/covid-19"
+,,,,
+,,,,
+,,,,
+,,,,
